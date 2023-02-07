@@ -1,0 +1,477 @@
+{
+    "pizza": [
+        {
+            "id": 0,
+            "name": "Rome",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "ham",
+                "mushrooms",
+                "beef cubes"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 25.75,
+            "image": "https://i.imgur.com/3ZTwCfz.png"
+        },
+        {
+            "id": 1,
+            "name": "American Spicy",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "pepperoni",
+                "tomatoes",
+                "green pepper",
+                "red onion",
+                "jalapenos",
+                "Samourai sauce"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 30.25,
+            "image": "https://i.imgur.com/dyoOLCO.png"
+        },
+        {
+            "id": 2,
+            "name": "Pork & Feta",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "feta cheese",
+                "ham",
+                "pork cubes",
+                "red onion"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "image": "https://i.imgur.com/48Zw4K3.png"
+        },
+        {
+            "id": 3,
+            "name": "Carnivora",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "chicken breast",
+                "beef cubes",
+                "pepperoni",
+                "bacon"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "image": "https://i.imgur.com/0vPtSSO.png"
+        },
+        {
+            "id": 4,
+            "name": "Louisiana Chicken",
+
+            "ingredients": [
+                "marinated chicken",
+                "TABASCO spicy sauce",
+                "red pepper sauce",
+                "blue cheese",
+                "green pepper",
+                "red onion"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 20.0,
+            "image": "https://i.imgur.com/lZtwJgy.png"
+        },
+        {
+            "id": 5,
+            "name": "Honey Mustard Chicken",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "marinated chicken in Honey Mustard sauce",
+                "cheddar cheese",
+                "red onion"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 19.8,
+            "image": "https://i.imgur.com/SoZu61g.png"
+        },
+        {
+            "id": 6,
+            "name": "Hawaiian",
+
+            "ingredients": [
+                "mozzarella",
+                "sweet chilli sauce",
+                "pepperoni",
+                "pineapple",
+                "jalapenos",
+                "red onion"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 27.25,
+            "image": "https://i.imgur.com/mqTgvgl.png"
+        },
+        {
+            "id": 7,
+            "name": "Classic",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "ham",
+                "mushrooms",
+                "olives"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "image": "https://i.imgur.com/k6IGrUd.png"
+        },
+        {
+            "id": 8,
+            "name": "Pastrami",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "pastrami",
+                "salty cheese",
+                "baked green pepper",
+                "red onion"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "image": "https://i.imgur.com/yOe5RtC.png"
+        },
+        {
+            "id": 9,
+            "name": "Hot Pastrami",
+
+            "ingredients": [
+                "Honey Mustard sauce",
+                "mozzarella",
+                "pastrami",
+                "sausages",
+                "chilli pepper",
+                "red onion"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 27.25,
+            "image": "https://i.imgur.com/ipMA5LP.png"
+        },
+        {
+            "id": 10,
+            "name": "Country",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "bacon",
+                "corn",
+                "onion",
+                "mushrooms"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 27.25,
+            "image": "https://i.imgur.com/E67Xf8Y.png"
+        },
+        {
+            "id": 11,
+            "name": "Hot Cheese",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "cheddar cheese",
+                "salty cheese",
+                "tomatoes",
+                "chilli pepper",
+                "oregano"
+            ],
+            "spicy": true,
+            "vegetarian": true,
+            "price": 27.25,
+            "image": "https://i.imgur.com/v4sa2cA.png"
+        },
+        {
+            "id": 12,
+            "name": "Ocean",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "tuna",
+                "corn",
+                "onion",
+                "olives"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 30,
+            "image": "https://i.imgur.com/w5IQ2rX.png"
+        },
+        {
+            "id": 13,
+            "name": "BBQ",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "BBQ sauce",
+                "onion",
+                "corn",
+                "bacon",
+                "mushrooms",
+                "sausages"
+            ],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 28.5,
+            "image": "https://i.imgur.com/znqS9KD.png"
+        },
+        {
+            "id": 14,
+            "name": "Mexicana",
+
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "salsa sauce",
+                "pepperoni",
+                "corn",
+                "onion",
+                "jalapenos",
+                "tortilla chips"
+            ],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 28.5,
+            "image": "https://i.imgur.com/cYpO8RT.png"
+        }
+    ],
+    "pasta": [
+        {
+            "id": 0,
+            "name": "Bolognese",
+
+            "ingredients": ["penne", "ragu sauce", "beef cubes", "mozzarella"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 28.0,
+            "image": "https://i.imgur.com/IXDJ52k.png"
+        },
+        {
+            "id": 1,
+            "name": "Carbonara",
+
+            "ingredients": [
+                "penne",
+                "white cream and garlic sauce",
+                "bacon",
+                "parmesan"
+            ],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 28.0,
+            "image": "https://i.imgur.com/3jKSuUu.png"
+        }
+    ],
+    "dessert": [
+        {
+            "id": 0,
+            "name": "Brownie",
+            "ingredients": ["chocolate"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 15,
+            "image": "https://i.imgur.com/7WbfaDN.png"
+        },
+        {
+            "id": 1,
+            "name": "Chocolate Tortilla",
+            "ingredients": ["chocolate","tortilla"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 12,
+            "image": "https://i.imgur.com/Mgsc3IZ.png"
+        },
+        {
+            "id": 2,
+            "name": "Cheesecake",
+            "ingredients": ["cream cheese"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 15,
+            "image": "https://i.imgur.com/AsldA7x.png"
+        }
+    ],
+    "drinks": [
+        {
+            "id": 0,
+            "name": "Coca Cola",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 5,
+            "image": "https://i.imgur.com/nJ6LeWv.png"
+        },
+        {
+            "id": 1,
+            "name": "Fanta",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 5,
+            "image": "https://i.imgur.com/1WDkfme.png"
+        },
+        {
+            "id": 2,
+            "name": "Sprite",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 5,
+            "image": "https://i.imgur.com/qP4Nx1x.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Water",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4.5,
+            "image": "https://i.imgur.com/yYuuaL1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sparkling water",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4.5,
+            "image": "https://i.imgur.com/0nyJk19.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Fuzetea",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 5,
+            "image": "https://i.imgur.com/dsHumXE.jpg"
+        }
+    ],
+    "sauces": [
+        {
+            "id": 0,
+            "name": "BBQ",
+
+            "ingredients": ["onion","tomatoes","vinegar"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 1,
+            "name": "Pizza",
+
+            "ingredients": ["tomatoes","garlic","oregano"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 2,
+            "name": "Salsa",
+
+            "ingredients": ["tomatoes","chilli pepper"],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 3,
+            "name": "Sweet Chilli",
+
+            "ingredients": ["chilli pepper"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 4,
+            "name": "Spicy TABASCO",
+
+            "ingredients": ["vinegar","chilli pepper"],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 5,
+            "name": "Mayonnaise",
+
+            "ingredients": ["egg"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/OmejA2J.png"
+        },
+        {
+            "id": 6,
+            "name": "Ketchup",
+
+            "ingredients": ["tomatoes"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 7,
+            "name": "Garlic sauce",
+
+            "ingredients": ["garlic"],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/OmejA2J.png"
+        }
+    ],
+    "sides": [
+        {
+            "id": 0,
+            "name": "Wedges",
+            "ingredients": ["potato"],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 6,
+            "image": "https://i.imgur.com/sxP6sJt.png"
+        },
+        {
+            "id": 1,
+            "name": "Onion rings",
+            "ingredients": ["onion"],
+            "spicy": false,
+            "vegetarian": true,
+            "price": 6,
+            "image": "https://i.imgur.com/i3Jintb.png"
+        }
+    ]
+}
